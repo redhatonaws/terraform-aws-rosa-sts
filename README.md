@@ -1,4 +1,4 @@
-# ROSA STS terraform module 1
+# ROSA STS terraform module
 
 Create rosa account IAM roles, operator IAM roles and OIDC provider in a declarative way
 Terraform AWS ROSA STS
